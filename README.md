@@ -20,20 +20,8 @@ _Show your support and give this repo a_ ⭐
 
 This project's goal is to gather information about **Nonprofits Businesses** listed on https://greatnonprofits.org/.   
 The following information will be gathered and saved in `json`, `csv` , `sqlite3` formats.  
-  - Name
-  - Causes
-  - Mission
-  - Target Demographics
-  - Direct Beneficiaries
-  - Geographic Area Served
-  - Programs
-  - EIN
-  - Email
-  - Phone NUmber
-  - Address
-  - Website
-  - FaceBook
-  - Twitter
+`Name`, `Causes`, `Mission`, `Target Demographics,` `Direct Beneficiaries`, `Geographic Area Served`, `Programs`, 
+`EIN`, `Email`, `Phone NUmber`, `Address`, `Website`, `FaceBook`, and `Twitter`.
  
 
 If the information cannot be found, `None` value will be given.
