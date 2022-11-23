@@ -1,6 +1,8 @@
 <div id="home" align="left">
 
-# Great NonProfits
+# Great Nonprofits
+
+![image](https://user-images.githubusercontent.com/72005563/203444300-e9236095-99af-4b1d-8fe2-05d75e56f514.png)
 
 ![made-with-Python](https://img.shields.io/badge/Python-blue?&logo=python&logoColor=yellow&label=Built%20with&style=flat&labelColor=black)
 [![License](https://img.shields.io/github/license/seraph776/seraph776?logo=github&color=green&labelColor=black)](https://github.com/seraph776/quotes-to-scrape.com/blob/main/contributing.md) [![Contribute](https://img.shields.io/badge/Contribute-black?&logo=github&logoColor=black&label=&flat&labelColor=yellow)](https://github.com/seraph776/quotes-to-scrape.com/blob/main/contributing.md) [![Report Bugs](https://img.shields.io/badge/Report%20Bugz-black?&logo=github&logoColor=black&label=&flat&labelColor=red)](https://github.com/seraph776/quotes-to-scrape.com/issues/new/choose)
@@ -35,11 +37,6 @@ This project was built using the `Python 3.10.1` and the following modules:
 | `sqlite3`        |    _    | Lightweight database for storing results.      | 
 | `csv`            |    _    | Reads and writes tabular data in CSV format.   | 
 | `json`           |    _    | Simple JSON decoder.                           | 
-
-
-## Screenshots
-
-![image](https://user-images.githubusercontent.com/72005563/203444300-e9236095-99af-4b1d-8fe2-05d75e56f514.png)
 
 
 ## Setup Instructions 
