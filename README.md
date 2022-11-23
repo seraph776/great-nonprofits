@@ -1,6 +1,6 @@
 <div id="home" align="left">
 
-# QuickStartTemplate
+# Great NonProfits
 
 ![made-with-Python](https://img.shields.io/badge/Python-blue?&logo=python&logoColor=yellow&label=Built%20with&style=flat&labelColor=black)
 [![License](https://img.shields.io/github/license/seraph776/seraph776?logo=github&color=green&labelColor=black)](https://github.com/seraph776/quotes-to-scrape.com/blob/main/contributing.md) [![Contribute](https://img.shields.io/badge/Contribute-black?&logo=github&logoColor=black&label=&flat&labelColor=yellow)](https://github.com/seraph776/quotes-to-scrape.com/blob/main/contributing.md) [![Report Bugs](https://img.shields.io/badge/Report%20Bugz-black?&logo=github&logoColor=black&label=&flat&labelColor=red)](https://github.com/seraph776/quotes-to-scrape.com/issues/new/choose)
@@ -14,27 +14,35 @@ _Show your support and give this repo a_ ⭐
 
 ## Intro
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+[GreatNonProphets](https://greatnonprofits.org/) is the leading platform for community-sourced stories about nonprofits.
 
 ## Objective
 
-The objective of this project is...
+This project's goal is to gather information about **Nonprofits Businesses** listed on https://greatnonprofits.org/.   
+The following information will be gathered and saved in `json`, `csv` , `sqlite3` formats.  
+  - Name
+  - Causes
+  - Mission
+  - Target Demographics
+  - Direct Beneficiaries
+  - Geographic Area Served
+  - Programs
+  - EIN
+  - Email
+  - Phone NUmber
+  - Address
+  - Website
+  - FaceBook
+  - Twitter
+ 
 
-1. Pick a website and describe your objective
-2. Use the requests library to download web pages
-3. Use Beautiful Soup to parse and extract information
-4. Create CSV file(s) with the extracted information
-5. Document and share your work
-
+If the information cannot be found, `None` value will be given.
 ## Requirements
 
 This project was built using the `Python 3.10.1` and the following modules: 
 
 | Required         | Version | Purpose                                        |
 |------------------|:-------:|------------------------------------------------|
-| `requests`       |  2.7.0  | A simple, yet elegant, HTTP library.           | 
-| `request-html`   |  0.10.0 | HTTP library, and HTML/XMl processing library. | 
-| `beautifulsoup4` |  4.9 3  | HTML/XMl processing library.                   | 
 | `Scrapy `        |  2.6.3  | A web-crawling framework.                      | 
 | `sqlite3`        |    _    | Lightweight database for storing results.      | 
 | `csv`            |    _    | Reads and writes tabular data in CSV format.   | 
@@ -42,9 +50,8 @@ This project was built using the `Python 3.10.1` and the following modules:
 
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/72005563/181623334-d74b5712-2709-4ccb-925b-f82cab72d8e1.png)
-![image](https://user-images.githubusercontent.com/72005563/181623334-d74b5712-2709-4ccb-925b-f82cab72d8e1.png)
 
+![image](https://user-images.githubusercontent.com/72005563/203444300-e9236095-99af-4b1d-8fe2-05d75e56f514.png)
 
 
 ## Setup Instructions 
